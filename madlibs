@@ -1,0 +1,6 @@
+var noun = 'chicken';
+var adjective = 'crazy';
+var verb = 'flying';
+var noun2 = 'pizzaman';
+
+console.log("On a tropical " + noun + ". Underneath a " + adjective + " moon. " + verb + " with the hula dancers, Askin' questions cause " + noun2 + " got all the answers.");
