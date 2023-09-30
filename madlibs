@@ -1,6 +1,6 @@
-var noun = 'chicken';
-var adjective = 'crazy';
-var verb = 'flying';
-var noun2 = 'pizzaman';
+var noun = prompt("Think of a noun.");
+var adjective = prompt("Now think of an adjective.");
+var verb = prompt("Now think of a verb.");
+var noun2 = prompt("And one more noun.");
 
 console.log("On a tropical " + noun + ". Underneath a " + adjective + " moon. " + verb + " with the hula dancers, Askin' questions cause " + noun2 + " got all the answers.");
